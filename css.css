@@ -1,0 +1,40 @@
+#title{
+    background-color: #EA7D18;
+}
+h1{
+    font-family: Montserrat;
+    color: white;
+    font-size: 3rem;
+}
+p{
+    color:white;
+    font-size: 1.3rem;
+}
+
+.container-fluid{
+    padding: 2% 5%;
+}
+body{
+    background-color: #FFDBBA;
+}
+#bodu{
+    padding-top: 2rem;
+    text-align: center;
+    font-family: Montserrat;
+    color: #EA7D18;
+    font-size: 3rem;
+}
+
+#con{
+    padding: 2rem;
+
+
+    background-color: #EA7D18;
+}
+
+#txt{
+    font-size: 35px;
+}
+button{
+    padding-left: 3rem;
+}
